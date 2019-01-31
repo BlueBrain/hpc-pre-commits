@@ -1,0 +1,7 @@
+-   id: hpc-pc-cmake-build
+    name: HPC CMake build
+    description: Execute a "cmake --build..." command
+    entry: hpc-pc-cmake-build
+    language: python
+    pass_filenames: false
+    require_serial: true
