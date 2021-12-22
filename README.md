@@ -1,6 +1,6 @@
 # HPC Team Pre-Commit Hooks
 
-Hooks for pre-commit used by the HPC Team of the Blue Brain Project.
+Collection of git hooks for the [pre-commit](https://pre-commit.com/) utility used by the HPC Team developers.
 
 ## Funding & Acknowledgment
 
